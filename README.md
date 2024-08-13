@@ -1,2 +1,2 @@
 # Practicum_projects
-YaPraktikum
+Проектные работы Яндекс
